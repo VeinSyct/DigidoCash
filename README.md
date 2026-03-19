@@ -16,11 +16,11 @@ Powered by a revolutionary **entropy–chaos algorithm**, DigidoCash enables tra
 
 **Screenshot #1:** Settings - account no., protocol no., account name, currency and account name
 
-<img width="731" height="409" alt="image" src="https://github.com/user-attachments/assets/c6c5f9ec-8abe-4823-8a5d-5f9a953033a2" />
+<img width="830" height="464" alt="image" src="https://github.com/user-attachments/assets/649b4d0e-62a6-4f0d-9564-4cb2ea875402" />
 
 **Screenshot #2:** Balance - displays selected currency's balance
 
-<img width="729" height="408" alt="image" src="https://github.com/user-attachments/assets/cae669a0-7f73-4309-8c3a-bf01e04fa171" />
+<img width="828" height="464" alt="image" src="https://github.com/user-attachments/assets/1bc46134-1084-4e6e-9e9a-dbeb3f413a2c" />
 
 **Screenshot #3:** Options - share account QR code, scan QR code and transaction history
 
