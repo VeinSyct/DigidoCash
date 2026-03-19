@@ -1,12 +1,12 @@
-# ECash POS – The Future of Digital Cash for Commerce, Kiosks, Casinos, and Transportation
+# DigidoCash – The Future of Digital Cash for Commerce, Kiosks, Casinos, and Transportation
 
 ![ECash POS](https://img.shields.io/badge/status-production-green) ![Offline](https://img.shields.io/badge/offline-supported-blue) ![License](https://img.shields.io/badge/license-open--source-lightgrey)
 
-**ECash POS** is a **production-ready, QR-based point-of-sale system** that brings secure, instant, and offline-capable digital cash to real-world commerce. Trusted by **e-commerce platforms, retail stores, kiosks, casinos, e-bingo halls, and transportation systems** worldwide, ECash POS is redefining how digital money works — fast, reliable, and independent of traditional banking systems.
+**DigidoCash** is a **production-ready, QR-based point-of-sale system** that brings secure, instant, and offline-capable digital cash to real-world commerce. Trusted by **e-commerce platforms, retail stores, kiosks, casinos, e-bingo halls, and transportation systems** worldwide, DigidoCash is redefining how digital money works — fast, reliable, and independent of traditional banking systems.
 
 <img width="1024" height="1536" alt="ChatGPT Image Dec 21, 2025, 03_22_40 PM" src="https://github.com/user-attachments/assets/8ee67358-f93e-4a68-bc43-3a22ece8a73c" />
 
-Powered by a revolutionary **entropy–chaos algorithm**, ECash POS enables transactions without blockchain, cryptographic keys, or centralized ledgers, giving merchants, operators, and developers a truly **offline-first digital cash ecosystem**.
+Powered by a revolutionary **entropy–chaos algorithm**, DigidoCash enables transactions without blockchain, cryptographic keys, or centralized ledgers, giving merchants, operators, and developers a truly **offline-first digital cash ecosystem**.
 
 ---
 
@@ -20,8 +20,7 @@ Powered by a revolutionary **entropy–chaos algorithm**, ECash POS enables tran
 
 <img width="729" height="408" alt="image" src="https://github.com/user-attachments/assets/cae669a0-7f73-4309-8c3a-bf01e04fa171" />
 
-**Screenshot #3:** Options - share account QR code, scane QR code and transaction history
-
+**Screenshot #3:** Options - share account QR code, scan QR code and transaction history
 
 ---
 
@@ -30,7 +29,7 @@ Powered by a revolutionary **entropy–chaos algorithm**, ECash POS enables tran
 ### Real-World Adoption
 
 * Trusted by **retail stores, e-commerce shops, kiosks, casinos, e-bingo platforms, and transportation systems**.
-* Thousands of merchants and operators rely on ECash POS for daily operations.
+* Thousands of merchants and operators rely on DigidoCash for daily operations.
 * Fully integrated into high-volume environments with millions of offline and online transactions.
 
 ### QR-Based, Cash-Like Transactions
@@ -56,28 +55,24 @@ Powered by a revolutionary **entropy–chaos algorithm**, ECash POS enables tran
 ## 💡 How It Works
 
 1. **Splitting & Merging**
-
    * Value is structural rather than numeric.
    * Transfers involve splitting e-cash from the sender and merging it into the recipient’s virtual environment.
 
 2. **Spatial Virtual Addressing**
-
    * Each e-cash unit has a unique virtual location.
    * Data emerges only when the correct address is resolved.
 
 3. **Double-Spend Prevention**
-
    * Once merged into the recipient’s structure, the sender no longer holds the original instance.
    * Eliminates double-spending without ledgers or blockchains.
 
 4. **Offline & Optical Transfer**
-
    * QR codes carry transfer payloads.
    * Transactions are self-contained, secure, and deterministic.
 
 ---
 
-## 🚀 Why Developers Love ECash POS
+## 🚀 Why Developers Love DigidoCash
 
 * Open-source, modular, and highly integratable for wallets, merchant platforms, and custom financial systems.
 * Lightweight and deterministic, suitable for **web, mobile, and embedded devices**.
@@ -124,7 +119,7 @@ Powered by a revolutionary **entropy–chaos algorithm**, ECash POS enables tran
 ### Tech Stack
 
 * **Frontend:** React / Flutter / Web POS UI
-* **Core:** ECash library (entropy–chaos algorithm, spatial storage)
+* **Core:** DigidoCash library (entropy–chaos algorithm, spatial storage)
 * **Transfer Layer:** QR/Optical payload exchange
 * **Storage:** Local device (browser storage or embedded memory)
 * **Backend (Optional):** Node.js / Python for analytics and reporting
@@ -157,7 +152,7 @@ cd ecash-pos
 
 ## 🛠 Developer Integration
 
-* Embed ECash POS into **custom wallets, merchant platforms, kiosks, or financial systems**.
+* Embed DigidoCash into **custom wallets, merchant platforms, kiosks, or financial systems**.
 * Extend or adapt the entropy–chaos core for offline-first e-cash applications.
 * Integration examples included in the `public/` folder.
 
@@ -165,7 +160,7 @@ cd ecash-pos
 
 ## 🌍 Future Vision
 
-ECash POS is more than a payment system — it is the foundation for a **global, offline-capable digital fiat ecosystem**. By enabling fast, secure, and deterministic offline transactions, it empowers commerce in remote, off-grid, or emerging markets, while laying the groundwork for the **next era of cashless economies**.
+DigidoCash is more than a payment system — it is the foundation for a **global, offline-capable digital fiat ecosystem**. By enabling fast, secure, and deterministic offline transactions, it empowers commerce in remote, off-grid, or emerging markets, while laying the groundwork for the **next era of cashless economies**.
 
 ---
 
@@ -175,4 +170,4 @@ Open-source under the **MIT License** — free to use, modify, and integrate int
 
 ---
 
-**ECash POS:** Already powering e-commerce, retail stores, kiosks, casinos, and transportation worldwide. Fast, secure, offline-capable digital cash — ready for the future of money.
+**DigidoCash:** Already powering e-commerce, retail stores, kiosks, casinos, and transportation worldwide. Fast, secure, offline-capable digital cash — ready for the future of money.
