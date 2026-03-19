@@ -1,5 +1,7 @@
 # DigidoCash – The Future of Digital Cash for Commerce, Kiosks, Casinos, and Transportation
 
+<img width="1900" height="1020" alt="image" src="https://github.com/user-attachments/assets/17371a35-92e2-4c55-8fda-c4a7fa7ab43a" />
+
 ![ECash POS](https://img.shields.io/badge/status-production-green) ![Offline](https://img.shields.io/badge/offline-supported-blue) ![License](https://img.shields.io/badge/license-open--source-lightgrey)
 
 **DigidoCash** is a **production-ready, QR-based point-of-sale system** that brings secure, instant, and offline-capable digital cash to real-world commerce. Trusted by **e-commerce platforms, retail stores, kiosks, casinos, e-bingo halls, and transportation systems** worldwide, DigidoCash is redefining how digital money works — fast, reliable, and independent of traditional banking systems.
