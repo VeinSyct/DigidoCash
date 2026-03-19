@@ -12,7 +12,7 @@ Powered by a revolutionary **entropy–chaos algorithm**, DigidoCash enables tra
 
 ---
 
-<img width="729" height="408" alt="image" src="https://github.com/user-attachments/assets/5b4147aa-9f8d-4d2b-9295-56ede5a6126e" />
+<img width="829" height="463" alt="image" src="https://github.com/user-attachments/assets/187a3af8-7f18-4b01-945d-69f61689e07e" />
 
 **Screenshot #1:** Settings - account no., protocol no., account name, currency and account name
 
