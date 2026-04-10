@@ -188,6 +188,8 @@
 <script>
     let openApp = (d) => {
         if (!d.update) {
+            if (!_uz.user.currency)
+                changeCurrency({ currency: "PHP" });
             window.parent.postMessage({
                 id: window.frameElement.id,
                 action: "read-credits",
